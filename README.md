@@ -34,6 +34,10 @@ In addition, **you don't need to learn everything from this roadmap**. So we rec
 
 ![Roadmap](images/android_developer_roadmap.png)
 
+
+
+<a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a>
+
 ## ✍️ Articles
 
 <a href="https://getstream.io/blog/android-developer-roadmap/"><img src="images/article.png" /></a><br>
