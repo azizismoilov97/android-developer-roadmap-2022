@@ -36,7 +36,7 @@ In addition, **you don't need to learn everything from this roadmap**. So we rec
 
 
 
-<a href="https://github.com/skydoves/android-developer-roadmap/blob/main/images/android_developer_roadmap.png"><img src="images/article.png" /></a>
+<a href="https://github.com/skydoves/android-developer-roadmap/blob/main/images/android_developer_roadmap.png"><img src="https://github.com/skydoves/android-developer-roadmap/blob/main/images/android_developer_roadmap.png" /></a>
 
 ## ✍️ Articles
 
