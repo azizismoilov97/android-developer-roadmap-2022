@@ -10,11 +10,8 @@ In addition, **you don't need to learn everything from this roadmap**. So we rec
 
 <br>
 
-![Roadmap](images/android_developer_roadmap.png)
+![Roadmap]([images/android_developer_roadmap.png](https://github.com/skydoves/android-developer-roadmap/blob/main/images/android_developer_roadmap.png))
 
-## ✍️ Articles
-
-<a href="https://getstream.io/blog/android-developer-roadmap/"><img src="https://github.com/skydoves/android-developer-roadmap/blob/main/images/android_developer_roadmap.png" /></a><br>
 
 The 2022 Android Developer Roadmap is designed to give you a comprehensive understanding of the current Android ecosystem and provides suggested learning paths along the way to help you grasp the concepts.<br>
 
